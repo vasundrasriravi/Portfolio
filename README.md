@@ -334,7 +334,13 @@ a:hover {
 }
 ```
 ## OUTPUT
+![Screenshot 2025-05-25 114853](https://github.com/user-attachments/assets/0635a5c1-148f-4e2a-823a-b4543e8373c1)
 
+![Screenshot 2025-05-25 114908](https://github.com/user-attachments/assets/c003dbee-ecc2-4025-829c-d42babe61c96)
+
+![Screenshot 2025-05-25 114943](https://github.com/user-attachments/assets/65316692-ad61-4a84-88ee-89a32b86c0a1)
+
+![Screenshot 2025-05-25 115004](https://github.com/user-attachments/assets/dc604294-e88a-4f9e-8e4c-149f92e9c4ce)
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
